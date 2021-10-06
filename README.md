@@ -1,5 +1,5 @@
 ## Olá seja bem-vindo ao meu perfil! 👋
-<div align="center">
+<div align="left">
   <a href="https://github.com/JOAO-PAULO-BARBOZA">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JOAO-PAULO-BARBOZA&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JOAO-PAULO-BARBOZA&layout=compact&langs_count=7&theme=dracula"/>
